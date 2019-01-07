@@ -1,5 +1,5 @@
 {
-  "name": "posthtml",
+  "name": "posthtml-vscode-sorting-attrs",
   "version": "0.11.3",
   "description": "HTML/XML processor",
   "keywords": [
@@ -23,7 +23,7 @@
   "dependencies": {
     "object-assign": "^4.1.1",
     "posthtml-parser": "^0.3.3",
-    "posthtml-render": "^1.1.0"
+    "posthtml-renderer-vscode-sorting-attrs": "^1.1.4"
   },
   "devDependencies": {
     "chai": "^3.0.0",
@@ -62,8 +62,8 @@
       "email": "zxqfox@gmail.com"
     }
   ],
-  "homepage": "https://github.com/posthtml/posthtml",
-  "repository": "https://github.com/posthtml/posthtml.git",
-  "bugs": "https://github.com/posthtml/posthtml/issues",
+  "homepage": "https://github.com/rbalet/posthtml-vscode-sorting-attrs",
+  "repository": "https://github.com/rbalet/posthtml-vscode-sorting-attrs.git",
+  "bugs": "https://github.com/rbalet/posthtml-vscode-sorting-attrs/issues",
   "license": "MIT"
 }
