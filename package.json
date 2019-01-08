@@ -23,10 +23,10 @@
   "dependencies": {
     "object-assign": "^4.1.1",
     "posthtml-parser": "^0.3.3",
-    "posthtml-renderer-vscode-sorting-attrs": "^1.1.4"
+    "posthtml-renderer-vscode-sorting-attrs": "^1.1.5"
   },
   "devDependencies": {
-    "chai": "^3.0.0",§
+    "chai": "^3.0.0",
     "chai-as-promised": "^6.0.0",
     "chai-subset": "^1.1.0",
     "es6-promise": "^4.0.5",
